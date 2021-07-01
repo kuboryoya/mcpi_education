@@ -1,6 +1,6 @@
 勉強用
 
-## Minecraft Pi Edition API Python Library を使って色々やる
+## Mincraft Raspberry Jam Mod を使って色々やる
 
 環境
 - Phyton3
